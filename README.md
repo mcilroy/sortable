@@ -7,3 +7,5 @@ Outputs a data.txt file containing one product and its listings per line in a js
 
 to use:
 run main.py
+
+working with Python 3.4
